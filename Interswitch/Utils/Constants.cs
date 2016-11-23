@@ -13,5 +13,6 @@ namespace Payment.Utils
         public const string ContentType = "content-type";
         public const string Bearer = "Bearer ";
         public const string GET = "GET";
+        public const string POST = "POST";
     }
 }

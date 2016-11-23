@@ -64,6 +64,7 @@
     <Compile Include="Interswitch.cs" />
     <Compile Include="Drivers\QuickTellerDriver.cs" />
     <Compile Include="Models\Token.cs" />
+    <Compile Include="Helpers\PaymentAdvice.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utils\Constants.cs" />
     <Compile Include="Utils\Uris.cs" />

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Payment.Utils;
+using Payment.Helpers;
 namespace Payment.Drivers
 {
     public class QuickTellerDriver : IQuickTellerDriver
@@ -20,6 +21,15 @@ namespace Payment.Drivers
         private string ClientSecret;
         private string Token;
         private string TerminalId;
+        public string GetCategories()
+        {
+            List<KeyValuePair<string, string>> parameters = new List<KeyValuePair<string, string>>
+            {
+                new KeyValuePair<string, string> ("TerminalId", TerminalId )
+            };
+            var billsResponse = Interswitch.Send(Uris.categoriesUrl, Constants.GET, new object { }, hashMap: parameters).Result;
+            return billsResponse;
+        }
         public string GetBillers()
         {
             List<KeyValuePair<string, string>> parameters = new List<KeyValuePair<string, string>>
@@ -47,6 +57,14 @@ namespace Payment.Drivers
             var billsResponse = Interswitch.Send(Uris.billerPaymentItemsUrl.Replace("{billerId}", billerId), Constants.GET, new object { }, hashMap: parameters).Result;
             return billsResponse;
         }
-
+        public string PostPaymentAdvice(PaymentAdvice payment)
+        {
+            List<KeyValuePair<string, string>> parameters = new List<KeyValuePair<string, string>>
+            {
+                new KeyValuePair<string, string> ("TerminalId", TerminalId )
+            };
+            var billsResponse = Interswitch.Send(Uris.billPaymentNotification, Constants.POST, payment, hashMap: parameters).Result;
+            return billsResponse;
+        }
     }
 }

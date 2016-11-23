@@ -46,3 +46,17 @@ C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_cshar
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\SampleProject\bin\Debug\Microsoft.Threading.Tasks.xml
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\obj\Debug\SampleProject.exe
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\obj\Debug\SampleProject.pdb
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\SampleProject.exe
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\SampleProject.pdb
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Interswitch.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\RestSharp.Portable.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Interswitch.pdb
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache

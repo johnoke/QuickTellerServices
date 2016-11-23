@@ -34,3 +34,14 @@ C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_cshar
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\Interswitch\bin\Debug\RestSharp.Portable.dll
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\Interswitch\bin\Debug\System.Net.Http.Extensions.dll
 C:\Users\SUREGIFTS-DEVPC\Documents\Visual Studio 2015\Projects\interswitch_csharp_sdk\Interswitch\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\Interswitch.dll.config
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\Interswitch.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\Interswitch.pdb
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\RestSharp.Portable.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.pdb
