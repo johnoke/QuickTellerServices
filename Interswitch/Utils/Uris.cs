@@ -8,10 +8,10 @@ namespace Payment.Utils
 {
     class Uris
     {
-        public const string categoriesUrl = "/api/v1/quickteller/categorys";
-        public const string billersUrl = "/api/v1/quickteller/billers";
-        public const string billersCategoriesUrl = "/api/v1/quickteller/categorys/{id}/billers";
-        public const string billerPaymentItemsUrl = "/api/v1/quickteller/billers/{billerId}/paymentitems";
-        public const string billPaymentNotification = "/api/v1/quickteller/payments/advices";
+        public const string categoriesUrl = "/api/v2/quickteller/categorys";
+        public const string billersUrl = "/api/v2/quickteller/billers";
+        public const string billersCategoriesUrl = "/api/v2/quickteller/categorys/{id}/billers";
+        public const string billerPaymentItemsUrl = "/api/v2/quickteller/billers/{billerId}/paymentitems";
+        public const string billPaymentNotification = "/api/v2/quickteller/sendAdviceRequest";
     }
 }

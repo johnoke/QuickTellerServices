@@ -138,13 +138,10 @@ namespace Payment
                         paymentRequests.AddHeader(keyValue.Key, keyValue.Value);
                     }
                 }
-                else
-                {
-                    paymentRequests.AddHeader(Constants.ContentType, "application/json");
-                    paymentRequests.AddHeader("SignatureMethod", "SHA1");
-                }
+                paymentRequests.AddHeader(Constants.ContentType, "application/json");
+                paymentRequests.AddHeader("SignatureMethod", "SHA1");
                 #endregion
-                if(data != null && httpMethod.Equals("POST"))
+                if (data != null && httpMethod.Equals("POST"))
                     paymentRequests.AddJsonBody(data);
 
                 ServicePointManager.Expect100Continue = true;
