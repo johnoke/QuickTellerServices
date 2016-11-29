@@ -11,7 +11,7 @@ C# Library allows you to consume Quickteller APIs using .NET
 
 ##Getting Started
 
-To get started using QuickTeller Services visit [here](https://github.com/johnoke/Flutterwave-Csharp/blob/master/Example/) to see code example.
+To get started using QuickTeller Services visit [here](https://github.com/johnoke/QuickTellerServices/blob/master/SampleProject/Example.cs) to see code example.
 
 
 
