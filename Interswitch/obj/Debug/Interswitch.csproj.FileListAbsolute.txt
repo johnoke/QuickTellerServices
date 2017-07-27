@@ -42,6 +42,8 @@ C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\Newtonsoft.
 C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\RestSharp.Portable.dll
 C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\System.Net.Http.Extensions.dll
 C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\System.Net.Http.Primitives.dll
-C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.csprojResolveAssemblyReference.cache
 C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.dll
 C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.pdb
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\obj\Debug\Interswitch.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\InterswitchSecure.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\Interswitch\bin\Debug\InterswitchSecure.pdb

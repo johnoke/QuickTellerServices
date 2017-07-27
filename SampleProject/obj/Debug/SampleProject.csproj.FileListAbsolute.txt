@@ -60,3 +60,6 @@ C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Interswit
 C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.xml
 C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
 C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\obj\Debug\SampleProject.csprojResolveAssemblyReference.cache
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\Interswitch.dll.config
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\InterswitchSecure.dll
+C:\Users\johno\Documents\WorkSpace\QuickTeller\SampleProject\bin\Debug\InterswitchSecure.pdb

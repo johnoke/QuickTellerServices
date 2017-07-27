@@ -34,6 +34,10 @@
       <HintPath>..\packages\BouncyCastle.1.8.1\lib\BouncyCastle.Crypto.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="InterswitchSecure, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Release(2)\Release\InterswitchSecure.dll</HintPath>
+    </Reference>
     <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Desktop\windows-sdk\WindowsSDKPoC\dll\Newtonsoft.Json.dll</HintPath>
@@ -61,6 +65,11 @@
     <Compile Include="Config.cs" />
     <Compile Include="Crypto.cs" />
     <Compile Include="Drivers\IQuickTellerDriver.cs" />
+    <Compile Include="Drivers\PaycodeDriver.cs" />
+    <Compile Include="Helpers\BulkPaycodeGeneration.cs" />
+    <Compile Include="Helpers\CustomerVerification.cs" />
+    <Compile Include="Helpers\PaycodeTokenGeneration.cs" />
+    <Compile Include="Helpers\PayPhoneSecureData.cs" />
     <Compile Include="Interswitch.cs" />
     <Compile Include="Drivers\QuickTellerDriver.cs" />
     <Compile Include="Models\Token.cs" />
@@ -80,12 +89,6 @@
     <Content Include="lib\RestSharp.Portable.dll" />
     <Content Include="lib\System.Net.Http.Extensions.dll" />
     <Content Include="lib\System.Net.Http.Primitives.dll" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\My Received Files\InterswitchSecure\InterswitchSecure\InterswitchSecure.csproj">
-      <Project>{cd579b70-ff8b-4e85-8e3b-d20aa82fffae}</Project>
-      <Name>InterswitchSecure</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
